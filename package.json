@@ -46,12 +46,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-xml-body.git"
+    "url": "git+https://github.com/LouisWT/egg-xml-body"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/LouisWT/egg-xml-body/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-xml-body#readme",
+  "homepage": "https://github.com/LouisWT/egg-xml-body#readme",
   "author": "LouisWT",
   "license": "MIT"
 }
