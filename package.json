@@ -1,6 +1,6 @@
 {
   "name": "egg-xml-body",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "xml body parser for egg.js",
   "eggPlugin": {
     "name": "xmlBody"
@@ -37,9 +37,9 @@
     "autod": "autod"
   },
   "files": [
-    "app.js",
     "app",
-    "config"
+    "config",
+    "app.js"
   ],
   "ci": {
     "version": "8, 9"
