@@ -34,7 +34,7 @@ $ npm i egg-xml-body --save
 
 ```js
 // {app_root}/config/plugin.js
-exports.xmlBody = {
+exports.xmlBodyParser = {
   enable: true,
   package: 'egg-xml-body',
 };
@@ -51,7 +51,7 @@ egg-xml-body support all the configurations in [koa-xml-body](https://www.npmjs.
 
 ```js
 // {app_root}/config/config.default.js
-exports.xmlBody = {
+exports.xmlBodyParser = {
 };
 ```
 
